@@ -1,0 +1,112 @@
+body{
+  background-color: #d9d9d9;
+  margin: 0px;
+  padding: 0px;
+}
+
+.top-div{
+  background-color: white;
+  height: 28vh;
+  width: 85%;
+  margin:25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p-div1{
+  height: 30vh;
+  width: 85%;
+  position: absolute;
+}
+.first-p{
+  margin: 30px;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.red-button{
+  background-color: #cc0000;
+  height: 40px;
+  width: 100px;
+  border-color: #d9d9d9;
+  border-width: thin;
+  border-style: solid;
+  margin-left: 20px;
+  float:left;
+}
+
+.blue-button{
+  background-color: #0099ff;
+  height: 40px;
+  width: 100px;
+  border-color: #d9d9d9;
+  border-width: thin;
+  border-style: solid;
+  margin-left: 20px;
+  float: left;
+}
+
+a{
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  padding: 25px;
+  padding-top: 9px;
+  position: absolute;
+  font-size: 20px;
+}
+
+.bottom-div{
+  background-color: white;
+  height: 55vh;
+  width: 85%;
+  margin:25px;
+  margin-left: auto;
+  margin-right: auto;
+
+  }
+.brule{
+  height: 35vh;
+  width: 55.5vh;
+  position: absolute;
+  margin: 25px;
+}
+
+.second-p {
+  margin: 25px;
+  position: relative;
+  padding-top: 40vh;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+.footer{
+  height: 60px;
+  width: 100%;
+  background-color: #4d4d4d;
+  position: absolute;
+  bottom: 0;
+
+}
+
+.bottom-link{
+
+}
+
+.apple{
+  float:right;
+  position: absolute;
+  height: 40px;
+  width: 100px;
+  padding-left: 75%;
+  padding-top: 5px;
+}
+
+.google{
+  float:right;
+  position: absolute;
+  height: 40px;
+  width: 100px;
+  padding-left: 60%;
+  padding-top: 5px;
+}
